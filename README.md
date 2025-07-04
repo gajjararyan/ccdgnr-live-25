@@ -46,6 +46,3 @@ If you add or rename SVGs, update the import paths in `src/App.jsx` accordingly.
 ### Customization
 - Edit `src/App.jsx` to change the layout, images, or iframe source as needed.
 - Tailwind CSS is used for styling. You can adjust styles in the JSX or in your Tailwind config.
-
-## License
-MIT (or specify your license here)
