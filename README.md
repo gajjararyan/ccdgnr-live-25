@@ -16,7 +16,7 @@ This project is a React + Vite app that displays a social wall and a custom left
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone <your-repo-url>
+   git clone https://github.com/gajjararyan/ccdgnr-live-25
    cd ccdgn-live
    ```
 2. Install dependencies:
